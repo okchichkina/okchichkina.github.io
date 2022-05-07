@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog | Academic</title>
+    <link>https://example.com/category/blog/</link>
+      <atom:link href="https://example.com/category/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>blog</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 May 2022 16:11:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>blog</title>
+      <link>https://example.com/category/blog/</link>
+    </image>
+    
+    <item>
+      <title>My last week</title>
+      <link>https://example.com/post/post1/</link>
+      <pubDate>Thu, 05 May 2022 16:11:00 +0000</pubDate>
+      <guid>https://example.com/post/post1/</guid>
+      <description>&lt;h2 id=&#34;my-last-week&#34;&gt;My last week&lt;/h2&gt;
+&lt;p&gt;Last week I was doing laboratries and the first stage of project, but i didn&amp;rsquo;t have time to upload an invidual project to the TUIS because at the last moment a virtual machine on my laptop froze and didn&amp;rsquo;t work fr a half an hour.
+cause of this situation i came to the conclusion yu can&amp;rsquo;t leave everything on the last day, and you need to complite a tasks the before the deadline.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
