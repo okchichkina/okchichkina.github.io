@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>study | Academic</title>
+    <link>https://example.com/category/study/</link>
+      <atom:link href="https://example.com/category/study/index.xml" rel="self" type="application/rss+xml" />
+    <description>study</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 May 2022 16:11:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>study</title>
+      <link>https://example.com/category/study/</link>
+    </image>
+    
+    <item>
+      <title>Lightweight markup languages</title>
+      <link>https://example.com/post/post4/</link>
+      <pubDate>Thu, 05 May 2022 16:11:00 +0000</pubDate>
+      <guid>https://example.com/post/post4/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;General information
+Designed for easy and fast addition of formatting to text data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Features:&lt;/li&gt;
+&lt;li&gt;Minimum functions.&lt;/li&gt;
+&lt;li&gt;A small set of supported tags.&lt;/li&gt;
+&lt;li&gt;Easy to learn.&lt;/li&gt;
+&lt;li&gt;The source text in such a language is read with the same ease as the finished document.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Representatives&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;Org-mode&lt;/li&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;reStructuredText&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;li&gt;Wiki markup&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
